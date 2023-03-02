@@ -1,7 +1,7 @@
 <div id="header" align="center">
 	<h1>Hi there, I'm Yaroslav aka GuessWho? </h1> 
-	<h3>Ex top 500 HoN, top 1000 Dota 2 and top 1000 HS BG player </h3>
-  <h4> Currently Dota 2 booster and Genshin Impact enjoyer </h4>
+	<h3>:trophy: Ex top 500 HoN, top 1000 Dota 2 and top 1000 HS BG player :trophy:  </h3>
+  <h4> :video_game: Currently Dota 2 booster and Genshin Impact enjoyer :video_game:  </h4>
 </div>
 <div id="socials" align="center">
 	<a href="https://discordapp.com/users/372343842072035328/">
